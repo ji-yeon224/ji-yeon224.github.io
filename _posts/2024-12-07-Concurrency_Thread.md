@@ -234,7 +234,7 @@ thread.cancel() // 외부 스레드를 취소함
 
 ```
 
-```plainText
+```plaintext
 Outer thread started
 Inner thread started
 Outer thread is cancelled: true
