@@ -5,6 +5,7 @@
 !.nojekyll
 !.travis.yml
 
+
 # bundler cache
 _site
 vendor
@@ -15,3 +16,7 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
+
+# obsidian
+_posts/.obsidian
+_posts/Templates
