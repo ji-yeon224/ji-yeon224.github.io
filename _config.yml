@@ -19,7 +19,7 @@ title: Journey's DevLog # the main title
 tagline: iOS Developer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  iOS
+  iOS 기록을 차곡차곡
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -76,7 +76,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: "google" # now only supports 'goatcounter'
+  provider: # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #

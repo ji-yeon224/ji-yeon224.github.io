@@ -10,9 +10,9 @@
   --text-muted-highlight-color: inherit;
   --heading-color: #2a2a2a;
   --label-color: #585858;
-  --blockquote-border-color: #eeeeee;
-  --blockquote-text-color: #757575;
-  --link-color: #9DB200;
+  --blockquote-border-color: #525050;
+  --blockquote-text-color: #666666;
+  --link-color: #5CA200;
   --link-underline-color: #dee2e6;
   --button-bg: #ffffff;
   --btn-border-color: #e9ecef;
@@ -31,11 +31,10 @@
     rgba(232, 230, 230, 1) 50%,
     rgba(250, 250, 250, 0) 100%
   );
-
   /* Sidebar */
   --site-title-color: rgb(113, 113, 113);
   --site-subtitle-color: #717171;
-  --sidebar-bg: #f6f8fa;
+  --sidebar-bg: #F2F4F1;
   --sidebar-border-color: #efefef;
   --sidebar-muted-color: #545454;
   --sidebar-active-color: #1d1d1d;
@@ -204,23 +203,23 @@
   }
 
   .highlight .sb {
-    color: #0550ae;
+    color: #9DB200;
   }
 
   .highlight .bp {
-    color: #0550ae;
+    color: #9DB200;
   }
 
   .highlight .ne {
-    color: #0550ae;
+    color: #9DB200;
   }
 
   .highlight .nl {
-    color: #0550ae;
+    color: #9DB200;
   }
 
   .highlight .py {
-    color: #0550ae;
+    color: #9DB200;
   }
 
   .highlight .nv,
@@ -237,12 +236,12 @@
   }
 
   .highlight .gh {
-    color: #0550ae;
+    color: #9DB200;
     font-weight: bold;
   }
 
   .highlight .gu {
-    color: #0550ae;
+    color: #9DB200;
     font-weight: bold;
   }
 
