@@ -43,7 +43,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-future: true
+future: false
 
 # Site Verification Settings
 webmaster_verifications:
@@ -151,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://ji-yeon224.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -216,6 +216,9 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+  - "node_modules"
+  - "_posts/Templates"
+  - "_posts/Temp"
 
 jekyll-archives:
   enabled: [categories, tags]

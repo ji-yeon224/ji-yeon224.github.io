@@ -1,11 +1,12 @@
 ---
-title: "동시성의 과거: 스레드"
+title: "[iOS] 동시성의 과거: 스레드"
 date: YYYY-MM-DD HH:MM:SS +09:00
 categories:
   - PointFree스터디
+  - Concurrency
 tags:
-  - Councurrency
   - Thread
+  - Concurrency
 comments: "true"
 ---
 *PointFree의 Concurrency 세션 정리 내용입니다!*
