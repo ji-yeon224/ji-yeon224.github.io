@@ -1,6 +1,6 @@
 ---
 title: "[iOS] 동시성의 과거: 스레드"
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2024-12-07
 categories:
   - PointFree스터디
   - Concurrency

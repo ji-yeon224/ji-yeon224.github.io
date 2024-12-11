@@ -1,6 +1,6 @@
 ---
 title: "[iOS] 동시성 프로그래밍 - OperationQueue, GCD, Combine"
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2024-12-11
 categories:
   - PointFree스터디
   - Concurrency
