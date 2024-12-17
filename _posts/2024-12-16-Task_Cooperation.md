@@ -11,7 +11,7 @@ comments: "true"
 ---
 <span style="color:gray">PointFree의 Concurrency 세션 정리 내용입니다!</span>
 
-# [**🔗](https://www.pointfree.co/episodes/ep192-concurrency-s-future-tasks-and-cooperation#task-cooperation) Concurrency's Future: Tasks and Cooperation**
+# [🔗](https://www.pointfree.co/episodes/ep192-concurrency-s-future-tasks-and-cooperation#task-cooperation) Concurrency's Future: Tasks and Cooperation
 
 ## Task Basic
 
