@@ -461,3 +461,8 @@ counter.count를 여러 번 참조하는 경우 문제가 발생하게 된다.
 - 코드의 가독성이 떨어진다.
 - 스레드 간 동기화를 위한 툴이 제한적이다.
 
+----
+
+🔥 다음 내용  
+[2. 동시성프로그래밍: OperationQueue, GCD, Combine](https://ji-yeon224.github.io/posts/Concurrency_OperationQueue_GCD_Combine/)
+

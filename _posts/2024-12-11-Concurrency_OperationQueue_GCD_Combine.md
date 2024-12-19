@@ -13,6 +13,10 @@ comments: "true"
 ---
 <span style="color:gray">PointFree의 Concurrency 세션 정리 내용입니다!</span>
 
+🔗 이전 내용  
+[1. 동시성의 과거: 스레드](https://ji-yeon224.github.io/posts/Concurrency_Thread/)
+
+----
 # [🔗](https://www.pointfree.co/episodes/ep191-concurrency-s-present-queues-and-combine) Concurrency’s Present: Queues and Combine
 
 ## Operation Queue
@@ -779,3 +783,8 @@ async let b = g(a)
 async let c = h(a)
 let d = await i(b, c)
 ```
+
+----
+
+🔥 다음 내용  
+[3. 동시성 프로그래밍: Task](https://ji-yeon224.github.io/posts/Task_Cooperation/)
