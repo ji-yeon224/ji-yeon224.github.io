@@ -18,7 +18,7 @@ comments: "true"
 [3.동시성프로그래밍: Task](https://ji-yeon224.github.io/posts/Task_Cooperation/)
 
 ----
-# [🔗](https://www.pointfree.co/collections/concurrency/threads-queues-and-tasks/ep193-concurrency-s-future-sendable-and-actors)Concurrency's Future: Sendable and Actors**  
+# [🔗](https://www.pointfree.co/collections/concurrency/threads-queues-and-tasks/ep193-concurrency-s-future-sendable-and-actors)Concurrency's Future: Sendable and Actors  
 ## Sendable and @Sendable  
 
 ### 데이터 동기화 및 Data Race 문제  

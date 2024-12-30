@@ -788,3 +788,4 @@ let d = await i(b, c)
 
 🔥 다음 내용  
 [3. 동시성 프로그래밍: Task](https://ji-yeon224.github.io/posts/Task_Cooperation/)
+[4. 동시성프로그래밍: Sendable, Actor](https://ji-yeon224.github.io/posts/Sendable_Actor/)

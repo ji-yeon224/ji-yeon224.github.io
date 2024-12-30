@@ -465,4 +465,5 @@ counter.count를 여러 번 참조하는 경우 문제가 발생하게 된다.
 
 🔥 다음 내용  
 [2. 동시성프로그래밍: OperationQueue, GCD, Combine](https://ji-yeon224.github.io/posts/Concurrency_OperationQueue_GCD_Combine/)
-
+[3. 동시성 프로그래밍: Task](https://ji-yeon224.github.io/posts/Task_Cooperation/)
+[4. 동시성프로그래밍: Sendable, Actor](https://ji-yeon224.github.io/posts/Sendable_Actor/)
