@@ -27,6 +27,7 @@ url: "https://ji-yeon224.github.io"
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 github:
   username: ji-yeon224 # change to your GitHub username
