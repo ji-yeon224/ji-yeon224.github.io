@@ -1,5 +1,5 @@
 ---
-title: "동시성프로그래밍: Sendable, Actor"
+title: "[iOS] 동시성프로그래밍: Sendable, Actor"
 date: 2024-12-30 15:00:00 +09:00
 categories:
   - PointFree스터디
