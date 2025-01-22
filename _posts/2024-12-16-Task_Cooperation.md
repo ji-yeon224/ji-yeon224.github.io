@@ -593,4 +593,5 @@ await Task.yield()
 
 ----
 🔥 다음 내용  
-[4. 동시성프로그래밍: Sendable, Actor](https://ji-yeon224.github.io/posts/Sendable_Actor/)
+[4. 동시성프로그래밍: Sendable, Actor](https://ji-yeon224.github.io/posts/Sendable_Actor/)  
+[5. 동시성프로그래밍: 구조적 프로그래밍과 MainActor](https://ji-yeon224.github.io/posts/StructuredProgramming/)

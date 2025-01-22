@@ -14,7 +14,7 @@ comments: "true"
 🔗 이전 내용  
 [1. 동시성의 과거: 스레드](https://ji-yeon224.github.io/posts/Concurrency_Thread/)  
 [2. 동시성프로그래밍: OperationQueue, GCD, Combine](https://ji-yeon224.github.io/posts/Concurrency_OperationQueue_GCD_Combine/)  
-[3.동시성프로그래밍: Task](https://ji-yeon224.github.io/posts/Task_Cooperation/)
+[3.동시성프로그래밍: Task](https://ji-yeon224.github.io/posts/Task_Cooperation/)  
 [4.동시성프로그래밍: Sendable, Actor](https://ji-yeon224.github.io/posts/Sendable_Actor/)
 
 ----
