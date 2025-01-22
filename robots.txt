@@ -7,4 +7,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: {{ '/sitemap.xml' | relative_url | prepend: site.url }}
+Sitemap: https://ji-yeon224.github.io/sitemap.xml
