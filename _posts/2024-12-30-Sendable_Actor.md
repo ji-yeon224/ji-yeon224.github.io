@@ -10,15 +10,17 @@ tags:
   - Actor
 comments: "true"
 ---
-<span style="color:gray">PointFree의 Concurrency 세션 정리 내용입니다!</span>
+<span style="color:gray">PointFree의 Concurrency 세션 정리 내용입니다!</span>  
 
-🔗 이전 내용  
+🔗 PointFree  
+ [Concurrency's Future: Sendable and Actors ](https://www.pointfree.co/collections/concurrency/threads-queues-and-tasks/ep193-concurrency-s-future-sendable-and-actors)  
+
+✏️ 이전 내용  
 [1. 동시성의 과거: 스레드](https://ji-yeon224.github.io/posts/Concurrency_Thread/)  
 [2. 동시성프로그래밍: OperationQueue, GCD, Combine](https://ji-yeon224.github.io/posts/Concurrency_OperationQueue_GCD_Combine/)  
 [3.동시성프로그래밍: Task](https://ji-yeon224.github.io/posts/Task_Cooperation/)
 
 ----
-# [🔗](https://www.pointfree.co/collections/concurrency/threads-queues-and-tasks/ep193-concurrency-s-future-sendable-and-actors)Concurrency's Future: Sendable and Actors  
 ## Sendable and @Sendable  
 
 ### 데이터 동기화 및 Data Race 문제  

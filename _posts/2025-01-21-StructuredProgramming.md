@@ -9,17 +9,18 @@ tags:
   - MainActor
 comments: "true"
 ---
-<span style="color:gray">PointFree의 Concurrency 세션 정리 내용입니다!</span>  
+<span style="color:gray">PointFree의 Concurrency 세션 정리 내용입니다!</span>    
 
-🔗 이전 내용  
+🔗 PointFree  
+[Concurrency's Future: Structured and Unstructured ](https://www.pointfree.co/episodes/ep194-concurrency-s-future-structured-and-unstructured#t3409)  
+
+✏️ 이전 내용  
 [1. 동시성의 과거: 스레드](https://ji-yeon224.github.io/posts/Concurrency_Thread/)  
 [2. 동시성프로그래밍: OperationQueue, GCD, Combine](https://ji-yeon224.github.io/posts/Concurrency_OperationQueue_GCD_Combine/)  
 [3.동시성프로그래밍: Task](https://ji-yeon224.github.io/posts/Task_Cooperation/)  
 [4.동시성프로그래밍: Sendable, Actor](https://ji-yeon224.github.io/posts/Sendable_Actor/)
 
 ----
-# [🔗](https://www.pointfree.co/episodes/ep194-concurrency-s-future-structured-and-unstructured#t3409) Concurrency's Future: Structured and Unstructured  
-
 ## Structured programming  
 
 > **구조적 프로그래밍**: 현대에 일반적으로 사용하고 있는 방식으로, 프로그램이 위에서 아래로 선형적으로 읽히도록 만드는 것을 목표로 하는 패러다임 프로그램의 일부를 블랙박스로 구성하여 항상 모든 세부사항을 알 필요 없게 된다.   
@@ -800,3 +801,7 @@ for n in 0..<workCount {
 실행 즉시 로그가 출력되고, 여러 작업이 동시에 실행된다. 그리고 약 6초 후 소수 계산 결과가 출력된다.  
 
 **단일 스레드에서도 효율적인 비동기 작업 처리가 가능**하며, **작업간 차단을 최소화**하여 **동시성을 극대화**할 수 있다.
+
+----
+
+[Concurrency's Future: Structured and Unstructured ](https://www.pointfree.co/episodes/ep194-concurrency-s-future-structured-and-unstructured#t3409)

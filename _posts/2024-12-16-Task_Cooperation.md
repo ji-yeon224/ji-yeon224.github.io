@@ -9,15 +9,16 @@ tags:
   - Task
 comments: "true"
 ---
-<span style="color:gray">PointFree의 Concurrency 세션 정리 내용입니다!</span>
+<span style="color:gray">PointFree의 Concurrency 세션 정리 내용입니다!</span>  
 
-🔗 이전 내용  
+🔗 PointFree  
+[Concurrency's Future: Tasks and Cooperation](https://www.pointfree.co/collections/concurrency/threads-queues-and-tasks/ep192-concurrency-s-future-tasks-and-cooperation)   
+
+✏️ 이전 내용  
 [1. 동시성의 과거: 스레드](https://ji-yeon224.github.io/posts/Concurrency_Thread/)  
 [2. 동시성프로그래밍: OperationQueue, GCD, Combine](https://ji-yeon224.github.io/posts/Concurrency_OperationQueue_GCD_Combine/)  
 
 ----
-# [🔗](https://www.pointfree.co/collections/concurrency/threads-queues-and-tasks/ep192-concurrency-s-future-tasks-and-cooperation) Concurrency's Future: Tasks and Cooperation
-
 ## Task Basic
 
 ### Task

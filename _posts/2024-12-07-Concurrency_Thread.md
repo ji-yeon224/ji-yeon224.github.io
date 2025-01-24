@@ -9,10 +9,12 @@ tags:
   - Concurrency
 comments: "true"
 ---
-*PointFree의 Concurrency 세션 정리 내용입니다!*
+*PointFree의 Concurrency 세션 정리 내용입니다!*  
 
-# [🔗](https://www.pointfree.co/episodes/ep190-concurrency-s-past-threads) Concurrency's Past: Threads
+🔗 PointFree  
+[Concurrency's Past: Threads](https://www.pointfree.co/episodes/ep190-concurrency-s-past-threads)   
 
+----
 ## Thread Basics
 
 Operation Queue나 GCD 등 스레드를 고려하지 않고 비동기 코드를 작성하도록 발전해왔다.  

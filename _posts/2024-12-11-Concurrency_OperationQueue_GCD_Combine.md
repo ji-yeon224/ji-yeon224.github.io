@@ -11,14 +11,15 @@ tags:
   - Combine
 comments: "true"
 ---
-<span style="color:gray">PointFree의 Concurrency 세션 정리 내용입니다!</span>
+<span style="color:gray">PointFree의 Concurrency 세션 정리 내용입니다!</span>  
 
-🔗 이전 내용  
+🔗 PointFree  
+[Concurrency’s Present: Queues and Combine](https://www.pointfree.co/episodes/ep191-concurrency-s-present-queues-and-combine)   
+
+✏️ 이전 내용  
 [1. 동시성의 과거: 스레드](https://ji-yeon224.github.io/posts/Concurrency_Thread/)
 
 ----
-# [🔗](https://www.pointfree.co/episodes/ep191-concurrency-s-present-queues-and-combine) Concurrency’s Present: Queues and Combine
-
 ## Operation Queue
 
 Operation Queue는 스레드의 몇가지 문제를 해결하기 위해 도입되었다.  
